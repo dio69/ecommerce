@@ -10,7 +10,7 @@ const data = {
             brand:'One Plus',
             rating:5.0,
             numReviews:10,
-            description:'high quality product',
+            description:'The all new OnePlus 8 Powered by Qualcomm Snapdragon 865. Supports 5G Technology and comes equipped with 90hz Fliud display, a Rear Triple camera Setup with a capability to shoot 4K video @ 30/60 FPS.',
         },
         {
             _id:'2',
@@ -22,7 +22,7 @@ const data = {
             brand:'Samsung',
             rating:4.5,
             numReviews:10,
-            description:'high quality product',
+            description:'The Samsung S11 is designed to look premium and offers a smartphone experience like never before. It is the phone that will change photography with the revolutionary 8K resolution and the massive leap forward in zoom for mobile photography.',
         },
         {
             _id:'3',
@@ -34,7 +34,7 @@ const data = {
             brand:'Apple',
             rating:4.5,
             numReviews:10,
-            description:'high quality product',
+            description:'The iPhone 11 succeeds the iPhone XR, and it features a 6.1-inch LCD display that Apple calls a "Liquid Retina HD Display." It features a 1792 x 828 resolution at 326ppi, a 1400:1 contrast ratio, 625 nits max brightness, True Tone support for adjusting the white balance to the ambient lighting',
         },
         {
             _id:'4',
@@ -46,7 +46,7 @@ const data = {
             brand:'Samsung',
             rating:4.0,
             numReviews:8,
-            description:'mediocre quality product',
+            description:'The Samsung S10 is designed to look premium and offers a smartphone experience like never before. It is among the first devices to sport a punch-hole camera which is definitely worth showing off. The 15.49 cm (6.1 inch) full-HD Infinity-O display comes with no notch. This means no distractions, interruptions and finally a true immersive content viewing experience. ',
         },
         {
             _id:'5',
@@ -58,7 +58,7 @@ const data = {
             brand:'One Plus',
             rating:4.0,
             numReviews:13,
-            description:'mediocre quality product',
+            description:'The all new OnePlus 7T Pro Powered by Qualcomm Snapdragon 855 Plus (Octa-core, 7nm, up to 2.96 GHz) with Qualcomm AI Engine. Equipped with 90hz Fluid display, a Triple Rear camera with Telephoto and Ultra wide angel lens, that can capture 4K video @ 30/60 FPS with modes like UltraShot',
         },
         {
             _id:'6',
@@ -70,7 +70,7 @@ const data = {
             brand:'Apple',
             rating:4.0,
             numReviews:14,
-            description:'mediocre quality product',
+            description:'iPhone X is the future of the smartphone. It is packed with incredible new technologies, like the innovative TrueDepth camera system, beautiful Super Retina display and super fast A11 Bionic chip with neural enginen',
         }
     ]
 }
